@@ -2,32 +2,37 @@
 # Network Scanner and OS Detection Tool
 
 ## Overview
-This Python script is a comprehensive network scanner and OS detection tool. It scans a range of ports on a target IP address, detects service versions running on open ports, and identifies the operating system of the target machine using Nmap.
+This tool is a Python script designed for comprehensive network scanning and OS detection. It scans a specified range of ports on a target IP address, detects service versions running on open ports, and identifies the operating system of the target machine using Nmap.
 
 ## Features
-- **Port Scanning:** Scans specified ports to identify open and closed ports.
-- **Service Version Detection:** Determines service versions on open ports via HTTP requests.
-- **Operating System Detection:** Uses Nmap for OS detection.
+- **Port Scanning:** Efficiently scans a range of ports to identify open and closed ports.
+- **Service Version Detection:** Determines service versions running on open ports via HTTP requests.
+- **Operating System Detection:** Uses Nmap for accurate OS detection.
 
 ## Usage
-1. **Input:** Provide the target IP address and port range.
-2. **Execution:** Run the script to scan ports, detect service versions, and identify the OS.
-3. **Results:** View port scanning results, service versions on open ports, and OS detection details.
+1. **Input:** Provide the target IP address and the range of ports to scan.
+2. **Execution:** Run the script (`python network_scanner.py`) and follow the prompts.
+3. **Results:** View the port scanning results, service versions on open ports, and OS detection details.
 
 ## Dependencies
 - Python 3.x
 - Nmap (for OS detection)
 
-## Instructions
-1. Clone the repository.
-2. Install Python and Nmap if not already installed.
-3. Run the script using `python network_scanner.py`.
-4. Follow the prompts to input the target IP address and port range.
-5. View the results displayed in the terminal.
+## Installation and Execution
+1. Clone this repository to your local machine.
+2. Ensure Python 3.x and Nmap are installed.
+3. Open a terminal and navigate to the project directory.
+4. Run the script using `python network_scanner.py`.
+5. Follow the on-screen instructions to input the target IP and port range.
 
-## Contributing
-Contributions and feedback are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
+## Contribution
+Contributions and feedback are welcome! If you'd like to contribute:
+- Fork the repository.
+- Create a new branch (`git checkout -b feature/your-feature-name`).
+- Make your changes and commit them (`git commit -am 'Add your feature'`).
+- Push to the branch (`git push origin feature/your-feature-name`).
+- Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
