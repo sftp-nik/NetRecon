@@ -1,4 +1,4 @@
-# Network Scanner and OS Detection Tool
+# Network Scanner and OS Detection Tool 
 
 ## Overview
 This tool is a Python script designed for **comprehensive network scanning and OS detection**. It scans a specified range of ports on a target IP address, detects service versions running on open ports, and identifies the operating system of the target machine using Nmap.
