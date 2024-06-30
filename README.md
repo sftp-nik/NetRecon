@@ -10,7 +10,7 @@ This tool is a Python script designed for **comprehensive network scanning and O
 
 ## Usage
 1. **Input:** Provide the target IP address and the range of ports to scan.
-2. **Execution:** Run the script (`python network_scanner.py`) and follow the prompts.
+2. **Execution:** Run the script (`python script.py`) and follow the prompts.
 3. **Results:** View the port scanning results, service versions on open ports, and OS detection details.
 
 ## Dependencies
@@ -21,7 +21,7 @@ This tool is a Python script designed for **comprehensive network scanning and O
 1. **Clone this repository** to your local machine.
 2. **Ensure Python 3.x and Nmap are installed**.
 3. **Open a terminal** and navigate to the project directory.
-4. **Run the script** using `python network_scanner.py`.
+4. **Run the script** using `python3 script.py`.
 5. Follow the on-screen instructions to input the target IP and port range.
 
 ## Contribution
