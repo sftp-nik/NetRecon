@@ -33,4 +33,4 @@ This tool is a Python script designed for **comprehensive network scanning and O
 - Create a new **Pull Request**.
 
 ## License
-This project is licensed under the **MIT Li
+This project is licensed under the **MIT Lic
