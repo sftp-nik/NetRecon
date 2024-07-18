@@ -21,7 +21,7 @@ This tool is a Python script designed for **comprehensive network scanning and O
 1. **Clone this repository** to your local machine.
 2. **Ensure Python 3.x and Nmap are installed**.
 3. **Open a terminal** and navigate to the project directory.
-4. **Run the script** using `python3 script.py`.
+4. **Run the script** using `python3 main.py`.
 5. Follow the on-screen instructions to input the target IP and port range.
 
 ## Contribution
