@@ -17,12 +17,19 @@ This tool is a Python script designed for **comprehensive network scanning and O
 - Python 3.x
 - Nmap (for OS detection)
 
-## Installation and Execution
+## Installation and Execution in Linux 
 1. **Clone this repository** to your local machine.
 2. **Ensure Python 3.x and Nmap are installed**.
 3. **Open a terminal** and navigate to the project directory.
 4. **Run the script** using `python3 main.py`.
 5. Follow the on-screen instructions to input the target IP and port range.
+
+## Execution in Windows or Mac
+1. **Use any IDE supporting python**
+2. **Download the zip of this repo**
+3. **Extract the file**
+4. **Open the `main.py`**
+5. **Run the code**
 
 ## Contribution
 **Contributions and feedback are welcome!** If you'd like to contribute:
