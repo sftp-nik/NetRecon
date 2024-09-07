@@ -31,7 +31,6 @@ This tool is a Python script designed for **comprehensive network scanning and O
 4. **Open the `main.py`**
 5. **Run the code**
 
-
 ## Contribution
 **Contributions and feedback are welcome!** If you'd like to contribute:
 - **Fork the repository**.
